@@ -35,7 +35,8 @@ public class Main {
 //        myArray.add(9);
 //        myArray.add(2);
 //        myArray.add(7);
-//
+//        System.out.println(myArray.array);
+
 //        assert(myArray.max() == 9);
 //
 //        myArray.add(10);
